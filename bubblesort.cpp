@@ -49,4 +49,5 @@ int main()
     b.input();
     b.sort();
     b.print();
+    return 0;
 }
